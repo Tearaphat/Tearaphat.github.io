@@ -1,1 +1,1 @@
-view my page, go to [https://Tearaphat.github.io](https://Tearaphat.github.io)
+view my page, go to [https://tearaphat.github.io](https://tearaphat.github.io)
